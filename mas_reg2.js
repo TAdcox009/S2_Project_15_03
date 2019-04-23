@@ -7,8 +7,8 @@
 
    Filename: mas_reg2.js
 
-   Author:  
-   Date:    
+ Author: Todd Adcox Jr
+ Date:   4-22-19    
 
 
    Function List
